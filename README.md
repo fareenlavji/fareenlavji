@@ -11,6 +11,10 @@
   <a href="https://floidity.ca" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
   <a href="https://orcid.org/0009-0007-1806-4386" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
   <a href="https://www.researchgate.net/profile/Fareen-Lavji" target="_blank"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"/></a>
+  <a href="https://discord.com/users/335685402671317003" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+  <a href="https://instagram.com/fluidflowster" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://reddit.com/u/fluidflo" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/></a>
+  <a href="https://cuportfolio.carleton.ca/view/view.php?t=93c3e8371147c9b968b4" target="_blank"><img src="https://img.shields.io/badge/cuPortfolio-8B0000?style=for-the-badge&logoColor=white" alt="cuPortfolio"/></a>
 </p>
 
 ---
@@ -19,46 +23,11 @@
 
 I'm a Software Engineering student at **Carleton University** and freelance IT consultant passionate about creating secure, inclusive solutions that bridge technology, sustainability, and socioeconomic impact. My work spans IT consulting, cybersecurity compliance, enterprise architecture, private sector innovation, public service research, and nonprofit leadership.
 
-- 🔭 I'm currently working on **CAPSTONE: Security Evaluations Management Asset (SEMA) Project** - reverse engineering the Common Criteria to design a collaborative document editor for streamlining cybersecurity certification processes
-- 🌱 I'm currently learning and researching **Human-Centric Cybersecurity (HC2), regulatory compliance, digital transformation, health tech, and pharmaceutical DBMS**
+- 🎓 Completed **4th year CAPSTONE: Security Evaluations Management Asset (SEMA) Project** - reverse engineered the Common Criteria to design a collaborative document editor architecture for streamlining Common Criteria cybersecurity certification processes
 - 👯 I'm looking to collaborate on **IT consulting, enterprise architecture, research initiatives, and community-driven tech projects**
-- 💬 Ask me about **cybersecurity standards, human-computer interaction, gamification, healthcare accessibility, STEM advocacy, and UN SDGs**
-- 📫 How to reach me: **fareen.lavji@carleton.ca**
+- 💬 Ask me about **cybersecurity standards, human-computer interaction, gamification, healthcare accessibility, STEM advocacy, UN SDGs, regulatory compliance, digital transformation, health tech, and pharmaceutical DBMS**
 - 📍 Based in **Ottawa, ON, Canada** (National Capital Region)
 - ⚡ Fun fact: **I enjoy archery, lock-picking, natural perfumery, vintage photography, and fostering community bonding!**
-
----
-
-## 💼 Experience
-
-### Software Development Intern at **Magnet Forensics**
-- Performed data analytics by scraping public web and cloud APIs
-- Enhanced product UX/UI for digital forensic tools
-- Integrated AI-driven features for digital forensics applications
-
-### Spectrum/Telecommunications Engineering Student at **Innovation, Science, and Economic Development (ISED) Canada**
-- Conducted research on ICT resilience
-- Performed commercialization estimates on quantum computing
-- Contributed to telecommunications policy and infrastructure projects
-
-### Freelance IT & DevOps Consultant at **Floidity**
-- Deliver small-scale projects helping organizations strengthen security and optimize workflows
-- Provide enterprise architecture and solutions design
-- Support digital transformation initiatives
-- Build hands-on expertise through meaningful collaborations
-
----
-
-## 🎓 Education
-
-**Bachelor of Engineering in Software Engineering**  
-Carleton University | Expected Graduation
-
-**Research Focus:** Human-Centric Cybersecurity (HC2), Regulatory Compliance, Healthcare Technology, Pharmaceutical Database Management Systems
-
-**CAPSTONE Project:** Security Evaluations Management Asset (SEMA)  
-*Supervisor:* Dr. Jason Jaskolka, PhD., P.Eng., SCE., FED.  
-*Collaboration:* Matthew Lisy (Systems Engineering)
 
 ---
 
@@ -100,15 +69,13 @@ Carleton University | Expected Graduation
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 CAPSTONE Project
 
 ### Security Evaluations Management Asset (SEMA)
 Fourth-year CAPSTONE project focused on reverse engineering the Common Criteria to design a collaborative document editor architecture for streamlining Common Criteria cybersecurity certification processes.
 
-**Tech Stack:** `Java` `Spring Framework` `Document Processing` `Collaborative Editing` `Common Criteria Compliance`
-
-**Supervised by:** Dr. Jason Jaskolka, Carleton University  
-**Collaboration:** Matthew Lisy (Systems Engineering)
+**Contributors:** [@mattlisy](https://github.com/mattlisy)  
+**Supervisor:** [@JasonJaskolka](https://github.com/JasonJaskolka)
 
 ---
 
@@ -162,15 +129,15 @@ Fourth-year CAPSTONE project focused on reverse engineering the Common Criteria 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fareenlavji&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fareenlavji&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fareenlavji&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fareenlavji&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fareenlavji&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fareenlavji&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -179,38 +146,6 @@ Fourth-year CAPSTONE project focused on reverse engineering the Common Criteria 
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=fareenlavji&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</p>
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <i>Let's connect if you're looking for IT & Operations Consulting, Enterprise Architecture & Design, Creative Digital Transformation, or Collaboration on Research and Community-Driven Tech Initiatives!</i>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/fareenlavji" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:fareen.lavji@carleton.ca">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/>
-  </a>
-  <a href="https://floidity.ca" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge" alt="Portfolio"/>
-  </a>
-  <a href="https://www.researchgate.net/profile/Fareen-Lavji" target="_blank">
-    <img src="https://img.shields.io/badge/ResearchGate-Follow-00CCBB?style=for-the-badge&logo=researchgate" alt="ResearchGate"/>
-  </a>
-  <a href="https://discord.com/users/335685402671317003" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://instagram.com/fluidflowster" target="_blank">Instagram</a> • 
-  <a href="https://reddit.com/u/fluidflo" target="_blank">Reddit</a> • 
-  <a href="https://cuportfolio.carleton.ca/view/view.php?t=93c3e8371147c9b968b4" target="_blank">cuPortfolio</a>
 </p>
 
 ---
