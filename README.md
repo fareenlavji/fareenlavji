@@ -72,10 +72,9 @@ Carleton University | Expected Graduation
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   
-  <!-- Frontend -->
+  <!-- Frontend & Markup -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/>
   
   <!-- Frameworks & Libraries -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dotnet" width="40" height="40"/>
@@ -97,16 +96,16 @@ Carleton University | Expected Graduation
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </p>
 
-**Additional Tools:** Atlassian Suite, MS365, DB Browser, Postman, WireShark, JetBrains IDEs, MS Visual Studio, Magnet AXIOM, Google Workspace, gRPC, JSON, Windows Terminal, Bash scripting, Batch programs
+**Additional Tools:** Markdown, Atlassian Suite, MS365, DB Browser, Postman, WireShark, JetBrains IDEs, MS Visual Studio, Magnet AXIOM, Google Workspace, gRPC, JSON, Windows Terminal, Bash scripting, Batch programs
 
 ---
 
 ## 🚀 Featured Projects
 
-### [Security Evaluations Management Asset (SEMA)](https://github.com/fareenlavji)
+### Security Evaluations Management Asset (SEMA)
 Fourth-year CAPSTONE project focused on reverse engineering the Common Criteria to design a collaborative document editor architecture for streamlining Common Criteria cybersecurity certification processes.
 
-**Tech Stack:** `Enterprise Architecture` `Cybersecurity Standards` `Collaborative Tools` `Common Criteria`
+**Tech Stack:** `Java` `Spring Framework` `Document Processing` `Collaborative Editing` `Common Criteria Compliance`
 
 **Supervised by:** Dr. Jason Jaskolka, Carleton University  
 **Collaboration:** Matthew Lisy (Systems Engineering)
