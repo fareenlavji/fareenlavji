@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Software Engineering student at **Carleton University** and freelance IT consultant passionate about creating secure, inclusive solutions that bridge technology, sustainability, and socioeconomic impact. My work spans IT consulting, cybersecurity compliance, enterprise architecture, private sector innovation, public service research, and nonprofit leadership.
+I'm a Bachelor of Engineering student at **Carleton University** and freelance IT consultant passionate about creating secure, inclusive solutions that bridge technology, sustainability, and socioeconomic impact. My work spans IT consulting, cybersecurity compliance, enterprise architecture, private sector innovation, public service research, and nonprofit leadership.
 
 - 👯 I'm looking to collaborate on **IT consulting, enterprise architecture, research initiatives, and community-driven tech projects**
 - 💬 Ask me about **cybersecurity standards, human-computer interaction, gamification, healthcare accessibility, STEM advocacy, UN SDGs, regulatory compliance, digital transformation, health tech, and pharmaceutical DBMS**
