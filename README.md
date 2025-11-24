@@ -1,23 +1,64 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">[Your Professional Title/Role]</h3>
+<h1 align="center">Hi 👋, I'm Fareen Lavji</h1>
+<h3 align="center">Software Engineering Student | IT Consulting | Human-Centric Cybersecurity | Enterprise Architecture & Solutions Design</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/[your-username]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/[your-username]" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="mailto:[your-email@example.com]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="[your-portfolio-url]" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
+  <i>🚀 Human-centered systems builder. Strategic technologist. Community-minded changemaker.</i>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/fareenlavji" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/fareenlavji" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://floidity.ca" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://orcid.org/0009-0007-1806-4386" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
+  <a href="https://www.researchgate.net/profile/Fareen-Lavji" target="_blank"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"/></a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 I'm currently working on **[Current Project/Company]**
-- 🌱 I'm currently learning **[Technologies/Skills]**
-- 👯 I'm looking to collaborate on **[Type of Projects]**
-- 💬 Ask me about **[Your Expertise Areas]**
-- 📫 How to reach me: **[your-email@example.com]**
-- ⚡ Fun fact: **[Something interesting about you]**
+I'm a Software Engineering student at **Carleton University** and freelance IT consultant passionate about creating secure, inclusive solutions that bridge technology, sustainability, and socioeconomic impact. My work spans IT consulting, cybersecurity compliance, enterprise architecture, private sector innovation, public service research, and nonprofit leadership.
+
+- 🔭 I'm currently working on **CAPSTONE: Security Evaluations Management Asset (SEMA) Project** - reverse engineering the Common Criteria to design a collaborative document editor for streamlining cybersecurity certification processes
+- 🌱 I'm currently learning and researching **Human-Centric Cybersecurity (HC2), regulatory compliance, digital transformation, health tech, and pharmaceutical DBMS**
+- 👯 I'm looking to collaborate on **IT consulting, enterprise architecture, research initiatives, and community-driven tech projects**
+- 💬 Ask me about **cybersecurity standards, human-computer interaction, gamification, healthcare accessibility, STEM advocacy, and UN SDGs**
+- 📫 How to reach me: **fareen.lavji@carleton.ca**
+- 📍 Based in **Ottawa, ON, Canada** (National Capital Region)
+- ⚡ Fun fact: **I enjoy archery, lock-picking, natural perfumery, vintage photography, and fostering community bonding!**
+
+---
+
+## 💼 Experience
+
+### Software Development Intern at **Magnet Forensics**
+- Performed data analytics by scraping public web and cloud APIs
+- Enhanced product UX/UI for digital forensic tools
+- Integrated AI-driven features for digital forensics applications
+
+### Spectrum/Telecommunications Engineering Student at **Innovation, Science, and Economic Development (ISED) Canada**
+- Conducted research on ICT resilience
+- Performed commercialization estimates on quantum computing
+- Contributed to telecommunications policy and infrastructure projects
+
+### Freelance IT & DevOps Consultant at **Floidity**
+- Deliver small-scale projects helping organizations strengthen security and optimize workflows
+- Provide enterprise architecture and solutions design
+- Support digital transformation initiatives
+- Build hands-on expertise through meaningful collaborations
+
+---
+
+## 🎓 Education
+
+**Bachelor of Engineering in Software Engineering**  
+Carleton University | Expected Graduation
+
+**Research Focus:** Human-Centric Cybersecurity (HC2), Regulatory Compliance, Healthcare Technology, Pharmaceutical Database Management Systems
+
+**CAPSTONE Project:** Security Evaluations Management Asset (SEMA)  
+*Supervisor:* Dr. Jason Jaskolka, PhD., P.Eng., SCE., FED.  
+*Collaboration:* Matthew Lisy (Systems Engineering)
 
 ---
 
@@ -26,47 +67,111 @@
 <p align="left">
   <!-- Programming Languages -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   
   <!-- Frontend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/>
   
-  <!-- Backend -->
+  <!-- Frameworks & Libraries -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dotnet" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   
   <!-- Databases -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
   
   <!-- DevOps & Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </p>
+
+**Additional Tools:** Atlassian Suite, MS365, DB Browser, Postman, WireShark, JetBrains IDEs, MS Visual Studio, Magnet AXIOM, Google Workspace, gRPC, JSON, Windows Terminal, Bash scripting, Batch programs
+
+---
+
+## 🚀 Featured Projects
+
+### [Security Evaluations Management Asset (SEMA)](https://github.com/fareenlavji)
+Fourth-year CAPSTONE project focused on reverse engineering the Common Criteria to design a collaborative document editor architecture for streamlining Common Criteria cybersecurity certification processes.
+
+**Tech Stack:** `Enterprise Architecture` `Cybersecurity Standards` `Collaborative Tools` `Common Criteria`
+
+**Supervised by:** Dr. Jason Jaskolka, Carleton University  
+**Collaboration:** Matthew Lisy (Systems Engineering)
+
+---
+
+## 🏆 Leadership & Advocacy
+
+### Engineering Co-Chair | **Carleton University Women in Science and Engineering (cuWiSE)**
+- Organized professional development workshops and hackathons
+- Led outreach programs promoting equity and sustainability in STEM
+
+### Founder | **Carleton Space and Defence Club**
+- Established student organization focused on space, defense, and intelligence sectors
+- Fostered community around aerospace and security innovation
+
+### Nonprofit CSO & Creative Director | **Feline Café Foundation**
+- Lead creative strategy and operations for animal welfare nonprofit
+- Drive community engagement and advocacy initiatives
+
+### Director of Mental Health, Sustainability, and Advocacy | **Carleton Engineering Societies**
+- Promoted ratification of mental health resource page for Faculty of Engineering and Design students
+- Directed students to mental health and social welfare resources
+
+### Research Chair | **First- and Second-Year Retention Working Group (FSRWG), ESSCO**
+- Spearheaded research on improving retention rates for first- and second-year engineering students in Ontario
+- Contributed to Engineering Students Societies' Council of Ontario initiatives
+
+---
+
+## 📜 Certifications
+
+- ✅ Gender-Based Analysis Plus
+- ✅ Crisis Response Training
+- ✅ Bystander Intervention
+- ✅ Enhanced Sexual Assault Awareness
+- ✅ Naloxone Administration
+- ✅ First Aid/CPR
+
+---
+
+## 🌍 Research Interests & Focus Areas
+
+**Technical:** Software Engineering • Cybersecurity • System Architecture • Enterprise Design • Standards & Regulations • Compliance • Quality Assurance • Ethics • Research & Development • Human-Computer Interaction • Healthcare Technology • Database Management Systems
+
+**Strategic:** Business Intelligence • Data Analytics • Policy Advisory • Digital Transformation • Innovation Strategy • Entrepreneurship
+
+**Social Impact:** Equity, Diversity & Inclusion • UN Sustainable Development Goals • ICT Sector Development • STEM Education • Community Engagement • Global Unity • Sustainability
+
+**Specialized Sectors:** Aviation • Aerospace • Space • Defence • Intelligence • Digital Forensics • Healthcare • Medtech • Nonprofit • Global Security
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fareenlavji&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[your-username]&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fareenlavji&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username]&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fareenlavji&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -74,83 +179,49 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=[your-username]&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=fareenlavji&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </p>
-
----
-
-## 📈 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 💼 Experience
-
-### [Job Title] at [Company Name]
-**[Start Date] - [End Date/Present]**
-- [Key responsibility or achievement]
-- [Key responsibility or achievement]
-- [Key responsibility or achievement]
-
-### [Job Title] at [Company Name]
-**[Start Date] - [End Date]**
-- [Key responsibility or achievement]
-- [Key responsibility or achievement]
-
----
-
-## 🎓 Education
-
-**[Degree] in [Field of Study]**  
-[University Name] | [Graduation Year]
-
----
-
-## 🚀 Featured Projects
-
-### [Project Name 1](project-link)
-[Brief description of the project and your role]
-
-**Tech Stack:** `Technology 1` `Technology 2` `Technology 3`
-
-### [Project Name 2](project-link)
-[Brief description of the project and your role]
-
-**Tech Stack:** `Technology 1` `Technology 2` `Technology 3`
 
 ---
 
 ## 📫 Connect With Me
 
 <p align="center">
-  Feel free to reach out if you want to collaborate on projects, discuss technology, or just chat!
+  <i>Let's connect if you're looking for IT & Operations Consulting, Enterprise Architecture & Design, Creative Digital Transformation, or Collaboration on Research and Community-Driven Tech Initiatives!</i>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/[your-username]" target="_blank">
+  <a href="https://linkedin.com/in/fareenlavji" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="mailto:[your-email@example.com]">
+  <a href="mailto:fareen.lavji@carleton.ca">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
-  <a href="[your-portfolio-url]" target="_blank">
+  <a href="https://floidity.ca" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge" alt="Portfolio"/>
   </a>
+  <a href="https://www.researchgate.net/profile/Fareen-Lavji" target="_blank">
+    <img src="https://img.shields.io/badge/ResearchGate-Follow-00CCBB?style=for-the-badge&logo=researchgate" alt="ResearchGate"/>
+  </a>
+  <a href="https://discord.com/users/335685402671317003" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://instagram.com/fluidflowster" target="_blank">Instagram</a> • 
+  <a href="https://reddit.com/u/fluidflo" target="_blank">Reddit</a> • 
+  <a href="https://cuportfolio.carleton.ca/view/view.php?t=93c3e8371147c9b968b4" target="_blank">cuPortfolio</a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[your-username]&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <i>~ from chaos to clarity, we advance to heightened realities ~</i>
 </p>
 
-<p align="center">⭐️ From [your-username]</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fareenlavji&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">⭐️ From fareenlavji</p>
