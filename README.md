@@ -14,7 +14,7 @@
   <a href="https://discord.com/users/335685402671317003" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
   <a href="https://instagram.com/fluidflowster" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://reddit.com/u/fluidflo" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/></a>
-  <a href="https://cuportfolio.carleton.ca/view/view.php?t=93c3e8371147c9b968b4" target="_blank"><img src="https://img.shields.io/badge/cuPortfolio-8B0000?style=for-the-badge&logoColor=white" alt="cuPortfolio"/></a>
+  <a href="https://cuportfolio.carleton.ca/view/view.php?t=93c3e8371147c9b968b4" target="_blank"><img src="https://img.shields.io/badge/cuPortfolio-8B0000?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="cuPortfolio"/></a>
 </p>
 
 ---
@@ -74,8 +74,8 @@ I'm a Software Engineering student at **Carleton University** and freelance IT c
 ### Security Evaluations Management Asset (SEMA)
 Fourth-year CAPSTONE project focused on reverse engineering the Common Criteria to design a collaborative document editor architecture for streamlining Common Criteria cybersecurity certification processes.
 
-**Contributors:** [@mattlisy](https://github.com/mattlisy)  
-**Supervisor:** [@JasonJaskolka](https://github.com/JasonJaskolka)
+**Contributors:** [@mattlisy](https://github.com/mattlisy) (Matthew Lisy)  
+**Supervisor:** [@JasonJaskolka](https://github.com/JasonJaskolka) (Dr. Jason Jaskolka)
 
 ---
 
