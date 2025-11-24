@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fareen Lavji</h1>
-<h3 align="center">Software Engineering Student | IT Consulting | Human-Centric Cybersecurity | Enterprise Architecture & Solutions Design</h3>
+<h3 align="center">Bachelor of Engineering Student | Software Consulting | Human-Centric Cybersecurity | Enterprise Architecture | Solutions Design</h3>
 
 <p align="center">
   <i>🚀 Human-centered systems builder. Strategic technologist. Community-minded changemaker.</i>
@@ -8,12 +8,9 @@
 <p align="center">
   <a href="https://linkedin.com/in/fareenlavji" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/fareenlavji" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://floidity.ca" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://floidity.ca" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/></a>
   <a href="https://orcid.org/0009-0007-1806-4386" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
   <a href="https://www.researchgate.net/profile/Fareen-Lavji" target="_blank"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"/></a>
-  <a href="https://discord.com/users/335685402671317003" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
-  <a href="https://instagram.com/fluidflowster" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://reddit.com/u/fluidflo" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/></a>
   <a href="https://cuportfolio.carleton.ca/view/view.php?t=93c3e8371147c9b968b4" target="_blank"><img src="https://img.shields.io/badge/cuPortfolio-8B0000?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="cuPortfolio"/></a>
 </p>
 
@@ -23,7 +20,6 @@
 
 I'm a Software Engineering student at **Carleton University** and freelance IT consultant passionate about creating secure, inclusive solutions that bridge technology, sustainability, and socioeconomic impact. My work spans IT consulting, cybersecurity compliance, enterprise architecture, private sector innovation, public service research, and nonprofit leadership.
 
-- 🎓 Completed **4th year CAPSTONE: Security Evaluations Management Asset (SEMA) Project** - reverse engineered the Common Criteria to design a collaborative document editor architecture for streamlining Common Criteria cybersecurity certification processes
 - 👯 I'm looking to collaborate on **IT consulting, enterprise architecture, research initiatives, and community-driven tech projects**
 - 💬 Ask me about **cybersecurity standards, human-computer interaction, gamification, healthcare accessibility, STEM advocacy, UN SDGs, regulatory compliance, digital transformation, health tech, and pharmaceutical DBMS**
 - 📍 Based in **Ottawa, ON, Canada** (National Capital Region)
@@ -79,27 +75,9 @@ Fourth-year CAPSTONE project focused on reverse engineering the Common Criteria 
 
 ---
 
-## 🏆 Leadership & Advocacy
+## 🌟 Featured Projects
 
-### Engineering Co-Chair | **Carleton University Women in Science and Engineering (cuWiSE)**
-- Organized professional development workshops and hackathons
-- Led outreach programs promoting equity and sustainability in STEM
-
-### Founder | **Carleton Space and Defence Club**
-- Established student organization focused on space, defense, and intelligence sectors
-- Fostered community around aerospace and security innovation
-
-### Nonprofit CSO & Creative Director | **Feline Café Foundation**
-- Lead creative strategy and operations for animal welfare nonprofit
-- Drive community engagement and advocacy initiatives
-
-### Director of Mental Health, Sustainability, and Advocacy | **Carleton Engineering Societies**
-- Promoted ratification of mental health resource page for Faculty of Engineering and Design students
-- Directed students to mental health and social welfare resources
-
-### Research Chair | **First- and Second-Year Retention Working Group (FSRWG), ESSCO**
-- Spearheaded research on improving retention rates for first- and second-year engineering students in Ontario
-- Contributed to Engineering Students Societies' Council of Ontario initiatives
+Diverse portfolio spanning technology, advocacy, UN SDGs, and equity-driven initiatives.
 
 ---
 
@@ -146,6 +124,16 @@ Fourth-year CAPSTONE project focused on reverse engineering the Common Criteria 
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=fareenlavji&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://discord.com/users/335685402671317003" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+  <a href="https://instagram.com/fluidflowster" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://reddit.com/u/fluidflo" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/></a>
 </p>
 
 ---
